@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sharon Sahrin Mim 👩‍💻
 
-<!--
-**sharon-sahrin/sharon-sahrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+🏫 [Leading University](https://www.lus.ac.bd/)  
+💡 Passionate about coding, learning new technologies, and building cool projects  
+🌱 Currently learning: Data Structures, Algorithms, and Web Development  
+🚀 Dreaming big, working hard, and aiming high!
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Sharon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharonsahrinmim&show_icons=true&theme=rose_pine)
+
