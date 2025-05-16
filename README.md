@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sharon+Sahrin+Mim;CSE+Student+%7C+Future+Engineer;Lover+of+Tech+%26+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sharon+Sahrin+Mim;CSE+Student+%7C+Future+Engineer)](https://git.io/typing-svg)
 
 ---
 
